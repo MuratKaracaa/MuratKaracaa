@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat.</h1>
-<h3 align="center">Interested in backend development. Working on Nodejs/Typescript.</h3>
-
-- 🌱 I’m currently learning **Nodejs**
+<h3 align="center">Interested in full stack development. Working on Nodejs/Typescript and .Net Core.</h3>
 
 - 📫 How to reach me **murat.krc.1995@gmail.com**
 
